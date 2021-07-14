@@ -112,6 +112,22 @@ section{
     box-shadow: 5px 5px 10px grey;
     padding: 10px;
 }
+/* punda sections */
+section.extra h1{
+    text-align: center;
+}
+section div li a{
+    text-decoration:none;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+/* fotterrrrrrr */
 footer img{
     width: 483px;
     height: 110px;
